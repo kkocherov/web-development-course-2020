@@ -1,65 +1,88 @@
-#### Общая информация 
+## Общая информация 
 
 [Программа обучения](https://docs.google.com/spreadsheets/d/13q_JN6FzGcBoz8DWEXhcdx_A2G6B-LMizftQCvSEMzQ/edit#gid=753480260)
 
-##### Расписание  
+##### Расписание:  
 Лекции вторник, четверг 18:00-20:00  
-Суббота практика 10:00-13:00
+Практика суббота 10:00-13:00
+
+Трансляции проходят на Twitch:    
+https://www.twitch.tv/singietone
 
 ##### Связь со мной    
 https://t.me/kkocherov
 
-# Материалы курса
+## Материалы курса
 
 [Гугл папочка со всеми материалами кура](https://drive.google.com/drive/u/2/folders/1GOrfvelTdsC-BGDAEpnZrBs6WfTcgDqP)
 
 #### Первая встреча  
-[Видео](https://drive.google.com/open?id=1AQ3Y8RlNncZetRt3kPw0hor7dxk8Cr9W)
-
-#### Неделя 1
-
-Лекция 1 Programming languages and other good ideas  
-[Презентация](https://docs.google.com/presentation/d/1-igVNDa1KOpk2sGc-mHwRjf2iLTAgqpit6ZDmljMGKI/view)  
-[Видео](https://drive.google.com/drive/u/2/folders/1Ly0aYqVmANm2g851Ir4LWRhsm02IutFa)
-
-Код:   
-[basic-php](https://repl.it/@KirillKocherov/basic-php)   
-[sorting-in-style](https://repl.it/@KirillKocherov/sorting-in-style)
-
-Лекция 2 Linux  
-[Презентация](https://docs.google.com/presentation/d/16duUJvqKmQJo60M66dsLAsbDyD7vKVWc7SdI3AdVyj0/view)  
-[Видео](https://drive.google.com/drive/u/2/folders/1olsIhi8fcjVEtyRNrt3tdn5ZloM86vt5)
-
-Практика 1  
-Задание с авторизацией, правами, пользователями, группами  
-[Видео](https://drive.google.com/drive/u/2/folders/1vyzNuJ7FxKKJ_hynCcqyAd8vDw91EQsv)
+[Видео на Google Drive](https://drive.google.com/open?id=1AQ3Y8RlNncZetRt3kPw0hor7dxk8Cr9W)
 
 ---
 
-#### Неделя 2
+### Неделя 1
+
+#### Лекция 1 Programming languages and other good ideas  
+
+* [Презентация](https://docs.google.com/presentation/d/1-igVNDa1KOpk2sGc-mHwRjf2iLTAgqpit6ZDmljMGKI/view)  
+* [Видео на Google Drive](https://drive.google.com/drive/u/2/folders/1Ly0aYqVmANm2g851Ir4LWRhsm02IutFa)
+* Код [basic-php](https://repl.it/@KirillKocherov/basic-php)   
+* Код [sorting-in-style](https://repl.it/@KirillKocherov/sorting-in-style)
+* Видео на YouTube: https://www.youtube.com/watch?v=G5MjJ1MDPqM
+
+#### Лекция 2 Linux  
+* [Презентация](https://docs.google.com/presentation/d/16duUJvqKmQJo60M66dsLAsbDyD7vKVWc7SdI3AdVyj0/view)  
+* [Видео на Google Drive](https://drive.google.com/drive/u/2/folders/1olsIhi8fcjVEtyRNrt3tdn5ZloM86vt5)
+* Видео на YouTube: https://www.youtube.com/watch?v=G5MjJ1MDPqM
+
+#### Практика 1 Задание с авторизацией, правами, пользователями, группами  
+* [Видео на Google Drive](https://drive.google.com/drive/u/2/folders/1vyzNuJ7FxKKJ_hynCcqyAd8vDw91EQsv)   
+* Видео на YouTube: https://www.youtube.com/watch?v=f8tn0c9q-po
+
+---
+
+### Неделя 2
 
 Основы программирования: Игра с окружностями  
-[Видео 3 части](https://drive.google.com/drive/u/2/folders/1mNxst2u5iq1Mj4pBhmJWvr7JFi5ZSry0)
+* [Видео на Google Drive](https://drive.google.com/drive/u/2/folders/1mNxst2u5iq1Mj4pBhmJWvr7JFi5ZSry0)  
+* Видео на YouTube:   
+  1. [Базовое программирование на JS. Игра с окружностями. Часть 1](https://www.youtube.com/watch?v=eoeTgMTLezg)
+  1. [Базовое программирование на JS. Игра с окружностями. Часть 2](https://youtu.be/sv8uQjMdwJs)
+  1. [Базовое программирование на JS. Игра с окружностями. Часть 3](https://www.youtube.com/watch?v=sv8uQjMdwJs)
+* Репозиторий: https://github.com/kkocherov/fun-with-circles
 
 ---
 
-#### Неделя 3  
-Лекция 3 HTML, HTTP, REST  
-[Видео](https://drive.google.com/drive/u/2/folders/1WuF4UxgKEFid9zvZYDtXkqCDuImxBDn1)
+### Неделя 3  
+#### Лекция 3 HTML, HTTP, REST  
+* [Видео на Google Drive](https://drive.google.com/drive/u/2/folders/1WuF4UxgKEFid9zvZYDtXkqCDuImxBDn1)  
+* Видео на YouTube: https://www.youtube.com/watch?v=7ZHVcdd2XJs
 
-Лекция 4 Среда исполнения браузера  
-[Видео](https://drive.google.com/drive/u/2/folders/1nYip5AHFamZpwUIMpsV6iRW9A_8CsjkE)
 
-Практика 2  
-Фронтенд: простенький статичный сайт  
-[Видео](https://drive.google.com/drive/u/2/folders/1V6lR5fYTjO9wEYhJaeT5fqUqtQgMRw9a)
+#### Лекция 4 Среда исполнения браузера  
+* [Видео на Google Drive](https://drive.google.com/drive/u/2/folders/1nYip5AHFamZpwUIMpsV6iRW9A_8CsjkE)   
+* Видео на YouTube [https://www.youtube.com/watch?v=h7SZEurwT-E](https://www.youtube.com/watch?v=h7SZEurwT-E)
+
+#### Практика 2  Фронтенд: простенький статичный сайт  
+* [Видео на Google Drive](https://drive.google.com/drive/u/2/folders/1V6lR5fYTjO9wEYhJaeT5fqUqtQgMRw9a)   
+* Видео на YouTube: https://www.youtube.com/watch?v=8IV7g1z2lrg
+* Репозиторий: https://github.com/kkocherov/InstaHram
 
 ---
 
-#### Неделя 4  
-Бэкенд: простой сайт с авторизацией и пользователями  
-[Видео 3 части](https://drive.google.com/drive/u/2/folders/1kgMh4Q-elWDwXTnY-xFjyrzB-PhqpkFw)
+### Недели 4 и 5
+#### Бэкенд: простой сайт с авторизацией и пользователями  
+* [Видео 4 части](https://drive.google.com/drive/u/2/folders/1kgMh4Q-elWDwXTnY-xFjyrzB-PhqpkFw)
 
+* Видео на YouTube:   
+  1. [Простенький сайт с авторизацией. Часть 1: настройка nginx, php-fpm](https://www.youtube.com/watch?v=u2mDQIP_fds)
+  1. [Простенький сайт с авторизацией. Часть 2: авторизация и маршрутизация ](https://www.youtube.com/watch?v=BJcKSqptcAY)
+  1. [Простенький сайт с авторизацией. Часть 3: backed для пользователей.](https://www.youtube.com/watch?v=aCW61fZN_fQ)
+  1. [Простенький сайт с авторизацией. Часть 4: CRUD пользователей](https://www.youtube.com/watch?v=mlPFSbc5poA)
+* Репозиторий: https://github.com/kkocherov/simple-web-resource
+
+---
 
 #### Другие материалы
 
@@ -102,17 +125,16 @@ https://www.hackerrank.com
 http://codeforces.com/   
 https://leetcode.com/problemset/all/   
 
-И помните(!) про кривую забывания) И то, как её можно сгладить
-https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D0%B7%D0%B0%D0%B1%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F
+И помните(!) про [кривую забывания](https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%B2%D0%B0%D1%8F_%D0%B7%D0%B0%D0%B1%D1%8B%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F) И то, как её можно сгладить
 
 # Задания
 
-#### Задание 1: c авторизацией, пользователями, группами, правами  
+### Задание 1: c авторизацией, пользователями, группами, правами  
 Описание в репозитории  
 https://github.com/kkocherov/js-assignment
 
 
-#### Задание 2: сверстать статичный сайт
+### Задание 2: сверстать статичный сайт
 
 Сверстать сайтик из двух-трех страничек с навигацией и формочкой,
 которую можно заполнить и что-то случится на странице. С каким то текстовым наполнением.
@@ -123,7 +145,6 @@ https://github.com/kkocherov/js-assignment
 С простой версткой как вы помните было в 2000х годах
 
 Результат залить на гитхаб и включить в нем GitHub Pages, скинуть мне ссылки.
-
 
 # Итоговый проект
 
