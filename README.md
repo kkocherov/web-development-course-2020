@@ -1,7 +1,5 @@
 ## Общая информация 
 
-[Программа обучения](https://docs.google.com/spreadsheets/d/13q_JN6FzGcBoz8DWEXhcdx_A2G6B-LMizftQCvSEMzQ/edit#gid=753480260)
-
 ##### Расписание:  
 Лекции вторник, четверг 18:00-20:00  
 Практика суббота 10:00-13:00
@@ -14,10 +12,10 @@ https://t.me/kkocherov
 
 ## Материалы курса
 
-[Гугл папочка со всеми материалами кура](https://drive.google.com/drive/u/2/folders/1GOrfvelTdsC-BGDAEpnZrBs6WfTcgDqP)
-
-#### Первая встреча  
-[Видео на Google Drive](https://drive.google.com/open?id=1AQ3Y8RlNncZetRt3kPw0hor7dxk8Cr9W)
+* [Google Drive папка со всеми материалами кура](https://drive.google.com/drive/u/2/folders/1GOrfvelTdsC-BGDAEpnZrBs6WfTcgDqP)
+* [Плейлист на YouTube c лекциями](https://www.youtube.com/playlist?list=PLLS1dXP92A-B3c_7ExVa5OwdXgAu2fgkq)
+* [Программа обучения](https://docs.google.com/spreadsheets/d/13q_JN6FzGcBoz8DWEXhcdx_A2G6B-LMizftQCvSEMzQ/edit#gid=753480260)
+* [Первая встреча: Видео на Google Drive](https://drive.google.com/open?id=1AQ3Y8RlNncZetRt3kPw0hor7dxk8Cr9W)
 
 ---
 
@@ -73,7 +71,7 @@ https://t.me/kkocherov
 
 ### Недели 4 и 5
 #### Бэкенд: простой сайт с авторизацией и пользователями  
-* [Видео 4 части](https://drive.google.com/drive/u/2/folders/1kgMh4Q-elWDwXTnY-xFjyrzB-PhqpkFw)
+* [Видео на Google Drive](https://drive.google.com/drive/u/2/folders/1kgMh4Q-elWDwXTnY-xFjyrzB-PhqpkFw)
 
 * Видео на YouTube:   
   1. [Простенький сайт с авторизацией. Часть 1: настройка nginx, php-fpm](https://www.youtube.com/watch?v=u2mDQIP_fds)
