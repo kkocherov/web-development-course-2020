@@ -109,6 +109,33 @@ https://t.me/kkocherov
   1. [Дизайн ПО с остальными принципами SOLID](https://youtu.be/bCbyOoiJb_8)
   1. [Рефакторинг приложения с авторизацией. Добавляем роутинг](https://youtu.be/AGPDPmz9cmk)
 
+### Неделя 9
+
+* Видео на YouTube:   
+  1. [Исполняемая среда](https://youtu.be/n4DnsLlFm4c)
+  1. [Паттерны](https://youtu.be/ItutBWDLeTA)
+  1. [Паттерны на практике](https://youtu.be/DZvyqkDaa08)
+
+
+### Неделя 10
+
+* Видео на YouTube:   
+  1. [Функциональное программирование](https://youtu.be/Flocfha9wLQ)
+  1. [Архитектуры](https://youtu.be/hx_dDyIT-hM)
+  1. [Первое задание не Clojure](https://youtu.be/G54oE_fAe6k)
+
+### Неделя 11
+
+* Видео на YouTube:   
+  1. [Релизы, CI/CD, виртуализация](https://youtu.be/weJ8pvLwBHQ)
+  1. [Docker](https://youtu.be/98zSuKXe6Ps)
+  1. [Логирование и мониторингhttps://youtu.be/DyIyMLnDm2E)
+
+### Неделя 12
+
+* Видео на YouTube:   
+  1. [Масштабирование, CAP теорема](https://youtu.be/F1UN9LItYg4)
+  1. [Процессы, agile, scrum и профессионализм](https://youtu.be/98zSuKXe6Ps)
 
 #### Другие материалы
 
